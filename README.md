@@ -6,7 +6,6 @@
 [<img align="left" alt="sarc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sarcbz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://fgbot.xyz/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-![Discord Banner 4](https://discordapp.com/api/guilds/744617382672072794/widget.png?style=banner4)
 
 <br />
 
