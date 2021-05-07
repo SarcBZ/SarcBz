@@ -1,4 +1,4 @@
-### Hi there, I'm Raj - aka Sarc 👋
+### Hi there, I'm Raj 👋
 
 ### Connect with me:
 
